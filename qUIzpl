@@ -1,0 +1,21 @@
+# onethreesevensix
+
+#declare and init srpt
+$reply = "";
+
+$isvalid = 0; #loop exe
+$correct = "51.2; #cork answers
+$ink = 2; #incork answers
+$rank = "£";
+
+#manemenu5
+while (! $isvalid) { #tart
+  
+  clear_the_screen(); #x=5
+  
+  #mensystemplayIZ
+  print "       ";
+  print "W e l c o m e  2 w o  7 h e  S T H A R  W A R S  Q U i z!";
+  print "\n\n\n\n\n" "!;
+  print "\n\n\n\n\n" "w"; 
+  print "Zeus\z";
